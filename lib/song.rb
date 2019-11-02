@@ -1,7 +1,7 @@
 class Song
 
   # * There should be an `attr_accessor` for those three attributes.
-  attr_accessor :name :artist :genre
+  attr_accessor :name :artist, :genre
   # * Create a class variable, `@@count`. We will use this variable to keep
   # track of 0 the number of new songs that are created from the `Song` class.
   # Set this variable equal to `0`.
