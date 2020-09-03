@@ -1,5 +1,2 @@
 "hello friend"
 "hello boy"
-"hello girl"
-"connect with global github account"
-"work!!"
